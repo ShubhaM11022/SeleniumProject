@@ -13,7 +13,7 @@ Thread.sleep(2000);
 WebElement uid=cd.findElement(By.xpath("//input[@name='id']"));
 uid.sendKeys("sadar");
 Thread.sleep(2000);
-
+//test
 WebElement pass=cd.findElement(By.xpath("//input[@name='pass']"));
 pass.sendKeys("sadar");
 Thread.sleep(2000);
