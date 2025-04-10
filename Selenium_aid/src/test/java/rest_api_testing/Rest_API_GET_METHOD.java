@@ -21,6 +21,7 @@ public class Rest_API_GET_METHOD {
 Assert.assertEquals(responseApi.getStatusCode(),200);
 System.out.println("api working");
 // done
+// rest api get method 
 }
 	
 
