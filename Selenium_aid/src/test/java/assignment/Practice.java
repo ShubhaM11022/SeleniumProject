@@ -7,6 +7,8 @@ public class Practice {
 int a =10;
 int b=10;
 int c=20;
+c=a+b;
+System.out.println(c);
 	}
 
 }
